@@ -78,7 +78,3 @@ curl -X POST -F "text=Your text here" http://localhost:8000/summarize/
 - Python 3.8+
 - Ollama with a compatible language model
 - Dependencies listed in `requirements.txt`
-
-## Author
-
-Built by okrupesh
